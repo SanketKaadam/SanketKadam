@@ -1,0 +1,2 @@
+company of Car is tesla 
+price of car is 5000000
